@@ -6,3 +6,4 @@ Any Text" could refer to different things, including an app that displays text o
 MOdification in file 1
 This is comparison lecture
 
+This is Stash Lecture, Change in file 1

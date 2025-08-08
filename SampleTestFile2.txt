@@ -1,3 +1,4 @@
 This is Sample File 2
 GIT revert commit 1
 This is comparison lecture, Change in File 2
+This is Stash Lecture, Change in file 2
